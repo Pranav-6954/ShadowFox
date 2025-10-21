@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Class containing all calculator operations
+
 class CalculatorFunctions {
 
     // Basic Arithmetic Operations
