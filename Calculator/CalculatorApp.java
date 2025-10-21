@@ -8,7 +8,7 @@ public class CalculatorApp {
         int choice;
 
         do {
-            System.out.println("\n===== Console Calculator =====");
+            System.out.println("\n Calculator");
             System.out.println("1. Addition");
             System.out.println("2. Subtraction");
             System.out.println("3. Multiplication");
