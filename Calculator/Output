@@ -1,0 +1,184 @@
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 1
+Enter first number: 15
+Enter second number: 19
+Result = 34.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 2
+Enter first number: 16
+Enter second number: 7
+Result = 9.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 3
+Enter first number: 50
+Enter second number: 14
+Result = 700.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 4
+Enter first number: 50
+Enter second number: 5
+Result = 10.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 4
+Enter first number: 5
+Enter second number: 0
+Error: Cannot divide by zero!
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 5
+Enter number: 25
+Square Root = 5.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 6
+Enter base: 2
+Enter exponent: 3
+Result = 8.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 7
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Enter choice: 1
+Enter temperature value: 40
+Fahrenheit = 104.0
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 7
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Enter choice: 2
+Enter temperature value: 120
+Celsius = 48.888888888888886
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 8
+1. USD to INR
+2. INR to USD
+Enter choice: 1
+Enter amount: 10
+INR = 879.5
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 8
+1. USD to INR
+2. INR to USD
+Enter choice: 2
+Enter amount: 1000
+USD = 11.370096645821489
+
+ Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Exponentiation (Power)
+7. Temperature Conversion
+8. Currency Conversion
+9. Exit
+Enter your choice: 9
+Exiting... Thank you!
